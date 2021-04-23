@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373852773578",
+    "project_id": "chat-adde2",
+    "storage_bucket": "chat-adde2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373852773578:android:64a5cca51945bf5247a833",
+        "android_client_info": {
+          "package_name": "br.edu.ifce.pdm.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373852773578-1rt4dh493ejatu42j9f3o921rb1rht57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifce.pdm.chat",
+            "certificate_hash": "fffed271568e0aefb62e0d3eb066705bdfa56b2c"
+          }
+        },
+        {
+          "client_id": "373852773578-o7gevo8hi0v0u4htqohtlculmridod08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdamVGnKj-oZXimEOyPZjTjBmne1WqkTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373852773578-o7gevo8hi0v0u4htqohtlculmridod08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
